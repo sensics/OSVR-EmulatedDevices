@@ -1,0 +1,16 @@
+{
+    "deviceVendor": "Sensics",
+    "author": "Georgiy Frolov georgiy@sensics.com",
+    "version": 1,
+    "lastModified": "",
+    "interfaces": {
+        "analog": {
+            "count": 3
+        }
+    },
+    "semantic": {
+        "x": "analog/0",
+        "y": "analog/1",
+        "z": "analog/2"
+    }
+}
