@@ -1,0 +1,6 @@
+[submodule "vendor/HIDAPIpp"]
+	path = vendor/HIDAPIpp
+	url = https://github.com/sensics/HIDAPIpp.git
+[submodule "vendor/hidapi"]
+	path = vendor/hidapi
+	url = https://github.com/signal11/hidapi.git
